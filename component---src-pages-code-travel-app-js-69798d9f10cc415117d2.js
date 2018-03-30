@@ -1,0 +1,2 @@
+webpackJsonp([0xfaec1148a8df],{209:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=a(2),r=n(l),u=a(11),f=(n(u),a(25)),p=n(f),d="Travel Planner",i="Web app for planning trips. Built with AngularJS and Spectre CSS framework.",s=function(){return r.default.createElement(p.default,{src:"https://meltplastic.net/demos/travel_app/index.html",title:d,text:i})};t.default=s,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-code-travel-app-js-69798d9f10cc415117d2.js.map

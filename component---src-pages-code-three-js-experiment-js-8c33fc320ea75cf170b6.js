@@ -1,0 +1,2 @@
+webpackJsonp([0x7e6362da7d5c],{208:function(e,t,n){"use strict";function i(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var r=n(2),a=i(r),l=n(11),u=(i(l),n(25)),d=i(u),s="Three.js Experiment",c="Experiment building an interactive app using WebGL library three.js. Click to add in a new element.",o=function(){return a.default.createElement(d.default,{src:"https://meltplastic.net/demos/three_js/index.html",title:s,text:c})};t.default=o,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-code-three-js-experiment-js-8c33fc320ea75cf170b6.js.map

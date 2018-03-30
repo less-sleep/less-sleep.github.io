@@ -1,0 +1,2 @@
+webpackJsonp([24406949725547],{207:function(t,e,l){"use strict";function u(t){return t&&t.__esModule?t:{default:t}}e.__esModule=!0;var n=l(2),a=u(n),i=l(11),f=(u(i),l(25)),s=u(f),o="Textify Plugin",r="jQuery plugin to animate lines of text.",c=function(){return a.default.createElement(s.default,{src:"https://meltplastic.net/demos/textify/example.html",title:o,text:r})};e.default=c,t.exports=e.default}});
+//# sourceMappingURL=component---src-pages-code-textify-plugin-js-94c3ad50a8a46dde2ea1.js.map

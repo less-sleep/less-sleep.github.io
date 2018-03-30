@@ -1,0 +1,2 @@
+webpackJsonp([34005387882424],{205:function(t,e,s){"use strict";function u(t){return t&&t.__esModule?t:{default:t}}e.__esModule=!0;var o=s(2),a=u(o),l=s(11),n=(u(l),s(25)),c=u(n),r="React Photos",d="Photos app built using Reactjs.",i=function(){return a.default.createElement(c.default,{src:"https://meltplastic.net/demos/react-photos/index.html",title:r,text:d})};e.default=i,t.exports=e.default}});
+//# sourceMappingURL=component---src-pages-code-react-photos-js-ba1f568f643b7c23e6c4.js.map
